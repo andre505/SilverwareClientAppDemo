@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Persistence"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Shared", "Infrastructure.Shared\Infrastructure.Shared.csproj", "{A7A85B99-6DCD-4808-8E36-637F5367D325}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VGWebAPI", "WebAPI\VGWebAPI.csproj", "{3A5D93F8-A4E9-4F44-A498-74A9A683D881}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilverwareWebAPI", "WebAPI\SilverwareWebAPI.csproj", "{3A5D93F8-A4E9-4F44-A498-74A9A683D881}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
